@@ -1,7 +1,7 @@
 # Somali NLP Data 
 
 ## Description
-This is the sister repo of [Somali_NLP]().  The data here has been collected from a range of different places. We have sometimes gone to great lengths to clean them up. For project aims and milestones, please see the Somali NLP repo linked above. 
+This is the sister repo of [Somali_NLP](https://github.com/apjama/SOMALI_NLP).  The data here has been collected from a range of different places. We have sometimes gone to great lengths to clean them up. For project aims and milestones, please see the Somali NLP repo linked above. 
 
 If you’ve any ideas about how to clean up the data, make it better, please get in touch. 
 
